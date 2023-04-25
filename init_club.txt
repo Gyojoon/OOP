@@ -1,0 +1,6 @@
+mancity 1000000
+liverpool 200000
+chelsea 10000
+tottenham 30000
+arsenal 2000
+man-united 1000
